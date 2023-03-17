@@ -33,11 +33,11 @@ figure {
 	height:100%;
 	max-height:494px;
 	max-height:30.875rem;
-	margin:20px auto;
-	margin:1.25rem auto;
-	padding:20px;
-	padding:1.051%;
-	background-color:#666;
+	margin:5px 5px;
+	margin:5px 5px;
+	padding:0px;
+	padding:0px;
+	background-color:#f6ecdd;
 }
 figcaption {
 	display:block;
@@ -160,7 +160,7 @@ html:-ms-fullscreen {
 	width:100%;
 }
 :-webkit-full-screen {
-	background-color:transparent;
+	background-color:#f6ecdd;
 }
 video:-webkit-full-screen + .controls {
 	background:#ccc; /* required for Chrome which doesn't heed the transparent value set above */
