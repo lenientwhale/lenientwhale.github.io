@@ -6,8 +6,8 @@ html, body {
 	height:100%;
 }
 body {
-	color:#000000;
-	background-color:#000000;
+	color:#666;
+	background-color:#ccc;
 	font-family:"Lucida Grande","Lucida Sans Unicode","DejaVu Sans",Lucida,Arial,Helvetica,sans-serif;
 }
 h1 {
@@ -37,7 +37,7 @@ figure {
 	margin:1.25rem auto;
 	padding:20px;
 	padding:1.051%;
-	background-color:#666;
+	background-color:transparent;
 }
 figcaption {
 	display:block;
