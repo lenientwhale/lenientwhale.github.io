@@ -198,7 +198,7 @@ figure[data-fullscreen=true] .controls .progress {
 }
 
 /* Media Queries */
-@media screen and (max-width:1024px) {
+@media screen and (max-width:4000px) {
 	figure {
 		padding-left:0;
 		padding-right:0;
